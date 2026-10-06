@@ -29,10 +29,7 @@ The guide asks for screenshots of the actual working project.
 - Introduces my profile and background
 - Displays my skills and projects
 - Provides direct links to my GitHub and professional profiles
-
-1. Clone the repository.
-2. Open the project folder.
-3. Open `index.html` in a browser.
+- 
 
 ## Current Limitations
 
