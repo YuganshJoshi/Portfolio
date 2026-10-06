@@ -4,7 +4,7 @@ A responsive portfolio website showcasing my profile, skills, projects and profe
 Live URL
 yuganshjoshi-portfolio.netlify.app
 
-https://your-name.vercel.app
+yuganshjoshi-portfolio.netlify.app
 Keep it near the top.
 
 D3 — At least two screenshots
