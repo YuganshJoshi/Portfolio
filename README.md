@@ -1,11 +1,10 @@
 # Personal Portfolio
 A responsive portfolio website showcasing my profile, skills, projects and professional links.
 
-Live URL
-yuganshjoshi-portfolio.netlify.app
+
 
 yuganshjoshi-portfolio.netlify.app
-Keep it near the top.
+
 
 D3 — At least two screenshots
 
